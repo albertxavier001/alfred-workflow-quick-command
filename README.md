@@ -34,7 +34,7 @@ open ```.command_table.json``` to modify any command
 }
 ```
 
-key = "ss on"
-command = "export http_proxy=socks5://127.0.0.1:1080 && export http_proxys=socks5://127.0.0.1:1080 && source ~/.bash_profile"
-description = "Turn on shadowsocks json"
+* key = "ss on"
+* command = "export http_proxy=socks5://127.0.0.1:1080 && export http_proxys=socks5://127.0.0.1:1080 && source ~/.bash_profile"
+* sdescription = "Turn on shadowsocks json"
 
