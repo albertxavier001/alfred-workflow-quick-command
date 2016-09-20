@@ -4,7 +4,7 @@ Quickly generate, delete, copy, execute any command
 
 
 
-## Usage
+## Usage   
 
 ### Copy command
 
